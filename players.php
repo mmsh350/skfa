@@ -45,360 +45,16 @@
             <!-- End Header-->
 
             <!-- mainmenu-->
-            <nav class="mainmenu">
-                <div class="container">
-                    <!-- Menu-->
-                    <ul class="sf-menu" id="menu">
-                        <li class="current">
-                            <a href="index.html">Home</a>
-                            <ul class="sub-current">
-                                <li>
-                                    <a href="index.html">Home 1</a>
-                                </li>
-                                <li>
-                                    <a href="index-2.html">Home 2</a>
-                                </li>
-                                <li>
-                                    <a href="index-3.html">Home 3</a>
-                                </li>
-                                <li>
-                                    <a href="index-4.html">Home 4</a>
-                                </li>
-                                <li>
-                                    <a href="index-5.html">Home 5</a>
-                                </li>
-                                <li>
-                                    <a href="index-6.html">Home 6</a>
-                                </li>
-                            </ul>
-                        </li>
-
-                        <li>
-                            <a href="#">World Cup</a>
-                            <div class="sf-mega">
-                                <div class="row">
-                                     <div class="col-md-3">
-                                        <h5><i class="fa fa-trophy" aria-hidden="true"></i>World Cup</h5>
-                                        <ul>
-                                            <li><a href="table-point.html">Point Table</a></li>
-                                            <li><a href="fixtures.html">Fixtures</a></li>
-                                            <li><a href="groups.html">Groups</a></li>
-                                            <li><a href="news-left-sidebar.html">News</a></li>
-                                            <li><a href="contact.html">Contact Us</a></li>
-                                        </ul>
-                                    </div>
-
-                                    <div class="col-md-3">
-                                      <h5><i class="fa fa-users" aria-hidden="true"></i> Teams List</h5>
-                                      <div class="img-hover">
-                                         <img src="images/1_2.jpg" alt="" class="img-responsive">
-                                         <div class="overlay"><a href="teams.html">+</a></div>
-                                      </div>
-                                    </div>
-
-                                    <div class="col-md-3">
-                                      <h5><i class="fa fa-futbol-o" aria-hidden="true"></i> Players List</h5>
-                                      <div class="img-hover">
-                                         <img src="images/2.jpg" alt="" class="img-responsive">
-                                         <div class="overlay"><a href="players.html">+</a></div>
-                                      </div>
-                                    </div>
-
-                                    <div class="col-md-3">
-                                      <h5><i class="fa fa-gamepad" aria-hidden="true"></i> Results Info</h5>
-                                      <div class="img-hover">
-                                         <img src="images/3.jpg" alt="" class="img-responsive">
-                                         <div class="overlay"><a href="results.html">+</a></div>
-                                      </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-
-                        <li class="current">
-                            <a href="teams.html">Teams</a>
-                            <ul class="sub-current">
-                                <li>
-                                    <a href="teams.html">Teams List</a>
-                                </li>
-                                <li>
-                                    <a href="single-team.html">Single Team</a>
-                                </li>
-                            </ul>
-                        </li>
-
-                        <li class="current">
-                            <a href="players.html">Players</a>
-                            <ul class="sub-current">
-                                <li>
-                                    <a href="players.html">Players List</a>
-                                </li>
-                                <li>
-                                    <a href="single-player.html">Single Player</a>
-                                </li>
-                            </ul>
-                        </li>
-
-                        <li>
-                            <a href="fixtures.html">Fixtures</a>
-                        </li>
-
-                        <li class="current">
-                            <a href="results.html">Results</a>
-                            <ul class="sub-current">
-                                <li>
-                                    <a href="results.html">Results List</a>
-                                </li>
-                                <li>
-                                    <a href="single-result.html">Single Result</a>
-                                </li>
-                            </ul>
-                        </li>
-
-                        <li>
-                            <a href="table-point.html">Point Table</a>
-                        </li>
-
-                        <li>
-                            <a href="groups.html">Groups</a>
-                        </li>
-
-                        <li>
-                            <a href="#">Features</a>
-                            <div class="sf-mega">
-                                <div class="row">
-                                    <div class="col-md-3">
-                                        <h5>Features</h5>
-                                        <ul>
-                                            <li><a href="page-full-width.html">Full Width</a></li>
-                                            <li><a href="page-left-sidebar.html">Left Sidebar</a></li>
-                                            <li><a href="page-right-sidebar.html">Right Sidebar</a></li>
-                                            <li><a href="page-404.html">404 Page</a></li>
-                                            <li><a href="page-faq.html">FAQ</a></li>
-                                            <li><a href="sitemap.html">Sitemap</a></li>
-                                            <li><a href="page-pricing.html">Pricing</a></li>
-                                            <li><a href="page-register.html">Register Form</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <h5>Headers & Footers</h5>
-                                        <ul>
-                                            <li><a href="feature-header-footer-1.html">Header Version 1</a></li>
-                                            <li><a href="feature-header-footer-2.html">Header Version 2</a></li>
-                                            <li><a href="feature-header-footer-3.html">Header Version 3</a></li>
-                                            <li><a href="index-5.html">Header Version 4</a></li>
-                                            <li><a href="feature-header-footer-1.html#footer">Footer Version 1</a></li>
-                                            <li><a href="feature-header-footer-2.html#footer">Footer Version 2</a></li>
-                                            <li><a href="feature-header-footer-3.html#footer">Footer Version 3</a></li>
-                                        </ul>
-                                    </div>
-
-                                    <div class="col-md-3">
-                                        <h5>Pages</h5>
-                                        <ul>
-                                            <li><a href="page-about.html">About Us</a></li>
-                                            <li><a href="single-player.html">About Me</a></li>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="single-team.html">Club Info</a></li>
-                                            <li><a href="single-result.html">Match Result</a></li>
-                                            <li><a href="table-point.html">Positions</a></li>
-                                        </ul>
-                                    </div>
-
-                                    <div class="col-md-3">
-                                        <h5>News</h5>
-                                        <ul>
-                                            <li>
-                                                <a href="news-left-sidebar.html">News Lef Sidebar</a>
-                                            </li>
-                                            <li>
-                                                <a href="news-right-sidebar.html">News Right Sidebar</a>
-                                            </li>
-                                            <li>
-                                                <a href="news-no-sidebar.html">News No Sidebar</a>
-                                            </li>
-                                            <li>
-                                                <a href="single-news.html">Single News</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <i class="fa fa-trophy big-icon" aria-hidden="true"></i>
-                                </div>
-                            </div>
-                        </li>
-
-                        <li>
-                            <a href="contact.html">Contact</a>
-                        </li>
-                    </ul>
-                    <!-- End Menu-->
-                </div>
-            </nav>
+              <nav class="mainmenu">
+        <?php include('includes/menu.php'); ?>
+      </nav>
             <!-- End mainmenu-->
 
-            <!-- Mobile Nav-->
-            <div id="mobile-nav">
-                <!-- Menu-->
-                <ul>
-                    <li>
-                        <a href="index.html">Home</a>
-                        <ul>
-                           <li>
-                                <a href="index-1.html">Home 1</a>
-                            </li>
-                            <li>
-                                <a href="index-2.html">Home 2</a>
-                            </li>
-                            <li>
-                                <a href="index-3.html">Home 3</a>
-                            </li>
-                            <li>
-                                <a href="index-4.html">Home 4</a>
-                            </li>
-                            <li>
-                                <a href="index-5.html">Home 5</a>
-                            </li>
-                            <li>
-                                <a href="index-6.html">Home 6</a>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <li>
-                        <a href="#">World Cup</a>
-                        <ul>
-                            <li>
-                               <a href="#">World Cup</a>
-                                <ul>
-                                    <li><a href="table-point.html">Point Table</a></li>
-                                    <li><a href="fixtures.html">Fixtures</a></li>
-                                    <li><a href="groups.html">Groups</a></li>
-                                    <li><a href="news-left-sidebar.html">News</a></li>
-                                    <li><a href="contact.html">Contact Us</a></li>
-                                </ul>
-                            </li>
-
-                            <li><a href="teams.html">Teams List</a></li>
-                            <li><a href="players.html">Players List</a></li>
-                            <li><a href="results.html">Results List</a></li>
-                        </ul>
-                    </li>
-
-                    <li>
-                        <a href="teams.html">Teams</a>
-                        <ul>
-                            <li>
-                                <a href="teams.html">Teams List</a>
-                            </li>
-                            <li>
-                                <a href="single-team.html">Single Team</a>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <li>
-                        <a href="players.html">Players</a>
-                        <ul>
-                            <li>
-                                <a href="players.html">Players List</a>
-                            </li>
-                            <li>
-                                <a href="single-player.html">Single Player</a>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <li>
-                        <a href="fixtures.html">Fixtures</a>
-                    </li>
-
-                    <li>
-                        <a href="results.html">Results</a>
-                        <ul>
-                            <li>
-                                <a href="results.html">Results List</a>
-                            </li>
-                            <li>
-                                <a href="single-result.html">Single Result</a>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <li>
-                        <a href="table-point.html">Point Table</a>
-                    </li>
-
-                    <li>
-                        <a href="groups.html">Groups</a>
-                    </li>
-
-                    <li>
-                        <a href="#">Features</a>
-                        <ul>
-                            <li>
-                                <a href="#">Features</a>
-                                <ul>
-                                    <li><a href="page-full-width.html">Full Width</a></li>
-                                    <li><a href="page-left-sidebar.html">Left Sidebar</a></li>
-                                    <li><a href="page-right-sidebar.html">Right Sidebar</a></li>
-                                    <li><a href="page-404.html">404 Page</a></li>
-                                    <li><a href="page-faq.html">FAQ</a></li>
-                                    <li><a href="sitemap.html">Sitemap</a></li>
-                                    <li><a href="page-pricing.html">Pricing</a></li>
-                                    <li><a href="page-register.html">Register Form</a></li>
-                                </ul>
-                            </li>
-
-                            <li>
-                                <a href="#">Headers & Footers</a>
-                                <ul>
-                                    <li><a href="feature-header-footer-1.html">Header Version 1</a></li>
-                                    <li><a href="feature-header-footer-2.html">Header Version 2</a></li>
-                                    <li><a href="feature-header-footer-3.html">Header Version 3</a></li>
-                                    <li><a href="index-5.html">Header Version 4</a></li>
-                                    <li><a href="feature-header-footer-1.html#footer">Footer Version 1</a></li>
-                                    <li><a href="feature-header-footer-2.html#footer">Footer Version 2</a></li>
-                                    <li><a href="feature-header-footer-3.html#footer">Footer Version 3</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#">Pages</a>
-                                <ul>
-                                    <li><a href="page-about.html">About Us</a></li>
-                                    <li><a href="single-player.html">About Me</a></li>
-                                    <li><a href="feature-header-footer-2.html#footer">Services</a></li>
-                                    <li><a href="single-team.html">Club Info</a></li>
-                                    <li><a href="single-result.html">Match Result</a></li>
-                                    <li><a href="table-point.html">Positions</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#">News</a>
-                                <ul>
-                                    <li>
-                                        <a href="news-left-sidebar.html">News Lef Sidebar</a>
-                                    </li>
-                                    <li>
-                                        <a href="news-right-sidebar.html">News Right Sidebar</a>
-                                    </li>
-                                    <li>
-                                        <a href="news-no-sidebar.html">News No Sidebar</a>
-                                    </li>
-                                    <li>
-                                        <a href="single-news.html">Single News</a>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <li>
-                        <a href="contact.html">Contact</a>
-                    </li>
-                </ul>
-                <!-- End Menu-->
-            </div>
-            <!-- End Mobile Nav-->
+              <!-- Mobile Nav-->
+      <div id="mobile-nav">
+          <?php include('includes/mobile-menu.php'); ?>
+      </div>
+      <!-- End Mobile Nav-->
 
             <!-- Section Title -->
             <div class="section-title" style="background:url(images/1.jpg)">
@@ -408,14 +64,7 @@
                             <h1>Players List</h1>
                         </div>
 
-                        <div class="col-md-4">
-                            <div class="breadcrumbs">
-                                <ul>
-                                    <li><a href="index.html">Home</a></li>
-                                    <li>Inner Page</li>
-                                </ul>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -445,7 +94,7 @@
                             <div class="item-player">
                                 <div class="head-player">
                                     <img src="images/1_1.jpg" alt="location-team">
-                                    <div class="overlay"><a href="single-player.html">+</a></div>
+                                    <div class="overlay"><a href="single-player">+</a></div>
                                 </div>
                                 <div class="info-player">
                                     <span class="number-player">
@@ -462,7 +111,7 @@
                                         <li><strong>AGE:</strong> <span>28</span></li>
                                     </ul>
                                 </div>
-                                <a href="single-player.html" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                <a href="single-player" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <!-- End Item Player -->
@@ -472,7 +121,7 @@
                             <div class="item-player">
                                 <div class="head-player">
                                     <img src="images/2_1.jpg" alt="location-team">
-                                    <div class="overlay"><a href="single-player.html">+</a></div>
+                                    <div class="overlay"><a href="single-player">+</a></div>
                                 </div>
                                 <div class="info-player">
                                     <span class="number-player">
@@ -489,7 +138,7 @@
                                         <li><strong>AGE:</strong> <span>28</span></li>
                                     </ul>
                                 </div>
-                                <a href="single-player.html" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                <a href="single-player" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <!-- End Item Player -->
@@ -499,7 +148,7 @@
                             <div class="item-player">
                                 <div class="head-player">
                                     <img src="images/3_1.jpg" alt="location-team">
-                                    <div class="overlay"><a href="single-player.html">+</a></div>
+                                    <div class="overlay"><a href="single-player">+</a></div>
                                 </div>
                                 <div class="info-player">
                                     <span class="number-player">
@@ -516,7 +165,7 @@
                                         <li><strong>AGE:</strong> <span>28</span></li>
                                     </ul>
                                 </div>
-                                <a href="single-player.html" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                <a href="single-player" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <!-- End Item Player -->
@@ -526,7 +175,7 @@
                             <div class="item-player">
                                 <div class="head-player">
                                     <img src="images/4.jpg" alt="location-team">
-                                    <div class="overlay"><a href="single-player.html">+</a></div>
+                                    <div class="overlay"><a href="single-player">+</a></div>
                                 </div>
                                 <div class="info-player">
                                     <span class="number-player">
@@ -543,7 +192,7 @@
                                         <li><strong>AGE:</strong> <span>28</span></li>
                                     </ul>
                                 </div>
-                                <a href="single-player.html" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                <a href="single-player" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <!-- End Item Player -->
@@ -553,7 +202,7 @@
                             <div class="item-player">
                                 <div class="head-player">
                                     <img src="images/5.jpg" alt="location-team">
-                                    <div class="overlay"><a href="single-player.html">+</a></div>
+                                    <div class="overlay"><a href="single-player">+</a></div>
                                 </div>
                                 <div class="info-player">
                                     <span class="number-player">
@@ -570,7 +219,7 @@
                                         <li><strong>AGE:</strong> <span>28</span></li>
                                     </ul>
                                 </div>
-                                <a href="single-player.html" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                <a href="single-player" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <!-- End Item Player -->
@@ -580,7 +229,7 @@
                             <div class="item-player">
                                 <div class="head-player">
                                     <img src="images/6.jpg" alt="location-team">
-                                    <div class="overlay"><a href="single-player.html">+</a></div>
+                                    <div class="overlay"><a href="single-player">+</a></div>
                                 </div>
                                 <div class="info-player">
                                     <span class="number-player">
@@ -597,7 +246,7 @@
                                         <li><strong>AGE:</strong> <span>28</span></li>
                                     </ul>
                                 </div>
-                                <a href="single-player.html" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                <a href="single-player" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <!-- End Item Player -->
@@ -607,7 +256,7 @@
                             <div class="item-player">
                                 <div class="head-player">
                                     <img src="images/1_1.jpg" alt="location-team">
-                                    <div class="overlay"><a href="single-player.html">+</a></div>
+                                    <div class="overlay"><a href="single-player">+</a></div>
                                 </div>
                                 <div class="info-player">
                                     <span class="number-player">
@@ -624,7 +273,7 @@
                                         <li><strong>AGE:</strong> <span>28</span></li>
                                     </ul>
                                 </div>
-                                <a href="single-player.html" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                <a href="single-player" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <!-- End Item Player -->
@@ -634,7 +283,7 @@
                             <div class="item-player">
                                 <div class="head-player">
                                     <img src="images/2_1.jpg" alt="location-team">
-                                    <div class="overlay"><a href="single-player.html">+</a></div>
+                                    <div class="overlay"><a href="single-player">+</a></div>
                                 </div>
                                 <div class="info-player">
                                     <span class="number-player">
@@ -651,7 +300,7 @@
                                         <li><strong>AGE:</strong> <span>28</span></li>
                                     </ul>
                                 </div>
-                                <a href="single-player.html" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                <a href="single-player" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <!-- End Item Player -->
@@ -661,7 +310,7 @@
                             <div class="item-player">
                                 <div class="head-player">
                                     <img src="images/3_1.jpg" alt="location-team">
-                                    <div class="overlay"><a href="single-player.html">+</a></div>
+                                    <div class="overlay"><a href="single-player">+</a></div>
                                 </div>
                                 <div class="info-player">
                                     <span class="number-player">
@@ -678,7 +327,7 @@
                                         <li><strong>AGE:</strong> <span>28</span></li>
                                     </ul>
                                 </div>
-                                <a href="single-player.html" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                <a href="single-player" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <!-- End Item Player -->
@@ -688,7 +337,7 @@
                             <div class="item-player">
                                 <div class="head-player">
                                     <img src="images/4.jpg" alt="location-team">
-                                    <div class="overlay"><a href="single-player.html">+</a></div>
+                                    <div class="overlay"><a href="single-player">+</a></div>
                                 </div>
                                 <div class="info-player">
                                     <span class="number-player">
@@ -705,7 +354,7 @@
                                         <li><strong>AGE:</strong> <span>28</span></li>
                                     </ul>
                                 </div>
-                                <a href="single-player.html" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                <a href="single-player" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <!-- End Item Player -->
@@ -715,7 +364,7 @@
                             <div class="item-player">
                                 <div class="head-player">
                                     <img src="images/5.jpg" alt="location-team">
-                                    <div class="overlay"><a href="single-player.html">+</a></div>
+                                    <div class="overlay"><a href="single-player">+</a></div>
                                 </div>
                                 <div class="info-player">
                                     <span class="number-player">
@@ -732,7 +381,7 @@
                                         <li><strong>AGE:</strong> <span>28</span></li>
                                     </ul>
                                 </div>
-                                <a href="single-player.html" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                <a href="single-player" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <!-- End Item Player -->
@@ -742,7 +391,7 @@
                             <div class="item-player">
                                 <div class="head-player">
                                     <img src="images/6.jpg" alt="location-team">
-                                    <div class="overlay"><a href="single-player.html">+</a></div>
+                                    <div class="overlay"><a href="single-player">+</a></div>
                                 </div>
                                 <div class="info-player">
                                     <span class="number-player">
@@ -759,7 +408,7 @@
                                         <li><strong>AGE:</strong> <span>28</span></li>
                                     </ul>
                                 </div>
-                                <a href="single-player.html" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                <a href="single-player" class="btn">View Player <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <!-- End Item Player -->
@@ -812,7 +461,7 @@
                 <div class="btn-instagram">
                     <i class="fa fa-instagram"></i>
                     FOLLOW
-                    <a href="https://www.instagram.com/fifaworldcup/" target="_blank">@fifaworldcup</a>
+                    <a href="https://www.instagram.com/fifaworldcup/" target="_blank">@skfacup</a>
                 </div>
             </div>
 
@@ -820,149 +469,14 @@
                 <div id="instafeed"></div>
             </div>
 
-            <!-- footer-->
-            <footer id="footer">
-                <!-- Footer Top-->
-                <div class="top-footer">
+           <!-- footer-->
+      <footer id="footer"></footer>
+      <!-- End footer-->
 
-                    <!-- Logo Footer-->
-                   <div class="col-lg-12">
-                        <div class="logo-footer">
-                            <h2>Sports Cup</h2>
-                        </div>
-                   </div>
-                    <!-- End Logo Footer-->
+      <!-- footer Down-->
+      <div id="site-copyright" class="footer-down"></div>
 
-                    <!-- Social Icons-->
-                    <ul class="social">
-                        <li>
-                            <div>
-                                <a href="#" class="facebook">
-                                    <i class="fa fa-facebook"></i>
-                                </a>
-                            </div>
-                        </li>
-                        <li>
-                            <div>
-                                <a href="#" class="twitter-icon">
-                                    <i class="fa fa-twitter"></i>
-                                </a>
-                            </div>
-                        </li>
-                        <li>
-                            <div>
-                                <a href="#" class="vimeo">
-                                    <i class="fa fa-vimeo-square"></i>
-                                </a>
-                            </div>
-                        </li>
-                        <li>
-                            <div>
-                                <a href="#" class="google-plus">
-                                    <i class="fa fa-google-plus"></i>
-                                </a>
-                            </div>
-                        </li>
-                        <li>
-                            <div>
-                                <a href="#" class="youtube">
-                                    <i class="fa fa-youtube"></i>
-                                </a>
-                            </div>
-                        </li>
-                    </ul>
-                    <!-- End Social Icons-->
-                </div>
-                <!-- End Footer Top-->
-
-                <!-- Links Footer-->
-                <div class="links-footer">
-                    <div class="container">
-                        <div class="row">
-
-                           <!-- Column Links -->
-                            <div class="col-lg-2 col-md-5 col-sm-5">
-                                <div class="info-links">
-                                   <h5>Organisation</h5>
-                                    <ul>
-                                        <li><a href="#">Volunteers</a></li>
-                                        <li><a href="#">Committees</a></li>
-                                        <li><a href="#">Official Documents</a></li>
-                                        <li><a href="#">Terms of Service</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <!-- End Column Links -->
-
-                            <!-- Column Links -->
-                            <div class="col-lg-4 col-md-7 col-sm-7">
-                                <div class="info-links">
-                                   <h5>Groups</h5>
-                                    <ul class="columns">
-                                        <li><a href="#">GROUP A</a></li>
-                                        <li><a href="#">GROUP B</a></li>
-                                        <li><a href="#">GROUP C</a></li>
-                                        <li><a href="#">GROUP D</a></li>
-                                        <li><a href="#">GROUP E</a></li>
-                                        <li><a href="#">GROUP F</a></li>
-                                        <li><a href="#">GROUP G</a></li>
-                                        <li><a href="#">GROUP H</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <!-- End Column Links -->
-
-                            <!-- Column Links -->
-                            <div class="col-lg-2 col-md-5 col-sm-5">
-                                <div class="info-links">
-                                   <h5>Interest Links</h5>
-                                    <ul>
-                                        <li><a href="#">Statistics</a></li>
-                                        <li><a href="#">Teams</a></li>
-                                        <li><a href="#">Qualifiers</a></li>
-                                        <li><a href="#">Ticketing</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <!-- End Column Links -->
-
-                            <!-- Column Links -->
-                            <div class="col-lg-4 col-md-7 col-sm-7">
-                                <div class="info-links">
-                                   <h5>Organisation</h5>
-                                    <ul class="columns">
-                                        <li><a href="#">NIZHNY NOVGOROD</a></li>
-                                        <li><a href="#">SAINT PETERSBURG</a></li>
-                                        <li><a href="#">EKATERINBURG</a></li>
-                                        <li><a href="#">MOSCOW</a></li>
-                                        <li><a href="#">KAZAN</a></li>
-                                        <li><a href="#">KALININGRAD</a></li>
-                                        <li><a href="#">VOLGOGRAD</a></li>
-                                        <li><a href="#">ROSTOV-ON-DON</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <!-- End Column Links -->
-
-                        </div>
-                    </div>
-                </div>
-                <!-- End Links Footer-->
-
-            </footer>
-            <!-- End footer-->
-
-            <!-- footer Down-->
-            <div class="footer-down">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <p>© 2018 SportsCup . All Rights Reserved</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- footer Down-->
+            
         </div>
         <!-- End layout-->
 

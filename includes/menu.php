@@ -2,7 +2,7 @@
   <!-- Menu-->
   <ul class="sf-menu" id="menu">
     <li class="current">
-      <a href="index.html">Home</a>
+      <a href="index">Home</a>
     </li>
     <li>
       <a href="#">League</a>
@@ -51,21 +51,21 @@
     </li>
 
     <li class="current">
-      <a href="players.html">Players</a>
+      <a href="players">Players</a>
     </li>
 
     <li>
-      <a href="fixtures.html">Fixtures</a>
+      <a href="fixtures">Fixtures</a>
     </li>
 
     <li class="current">
-      <a href="results.html">Results</a>
+      <a href="results">Results</a>
       <ul class="sub-current">
         <li>
-          <a href="results.html">Results List</a>
+          <a href="results">Results List</a>
         </li>
         <li>
-          <a href="single-result.html">Single Result</a>
+          <a href="single-result">Single Result</a>
         </li>
       </ul>
     </li>

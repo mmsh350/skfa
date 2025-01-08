@@ -995,7 +995,7 @@
           <i class="fa fa-instagram"></i>
           FOLLOW
           <a href="https://www.instagram.com/fifaworldcup/" target="_blank"
-            >@fifaworldcup</a
+            >@skfacup</a
           >
         </div>
       </div>
