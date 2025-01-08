@@ -60,26 +60,18 @@
 
     <li class="current">
       <a href="results">Results</a>
-      <ul class="sub-current">
-        <li>
-          <a href="results">Results List</a>
-        </li>
-        <li>
-          <a href="single-result">Single Result</a>
-        </li>
-      </ul>
     </li>
 
     <li>
-      <a href="table-point.html">Point Table</a>
+      <a href="table-point">Point Table</a>
     </li>
 
     <li>
-      <a href="groups.html">Groups</a>
+      <a href="groups">Groups</a>
     </li>
 
     <li>
-      <a href="contact.html">Contact</a>
+      <a href="contact">Contact</a>
     </li>
   </ul>
   <!-- End Menu-->
